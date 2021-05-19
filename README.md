@@ -11,9 +11,8 @@
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=we-get-dev&layout=compact&langs_count=16&theme=default"/>-->
  </div>   
   
-##
-  
-<div>
+---
+ 
   <h2>Redes Sociais</h2>
     <a href="https://www.youtube.com/channel/UCKPf4xBX5e2mFlWwoQgUOsg" target="_blank">
       <img src="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Youtube/Youtube_Logo.png?raw=true" height=40px>
@@ -21,6 +20,6 @@
     <a href = "mailto: wedevget@gmail.com">
       <img src="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Gmail/Gmail_Logo.png?raw=true" height=40px>
     </a>
-</div> 
+
   
 
